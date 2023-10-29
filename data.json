@@ -2375,6 +2375,12 @@
         }
       ],
       "id": 2
+    },
+    {
+      "email": "demo@gmail.com",
+      "password": "Qwerty123",
+      "addresses": [],
+      "id": 3
     }
   ],
   "cart": [
