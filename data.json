@@ -2363,7 +2363,26 @@
     {
       "email": "demo@gmail.com",
       "password": "Qwerty123",
-      "addresses": [],
+      "addresses": [
+        {
+          "name": "Lacky Singh",
+          "email": "thisislackysingh@gmail.com",
+          "phone": "07304183055",
+          "street": "A-13 Sai Dalit Seva Sangh Subhash Nagar 2 Andheri East Mumbai 93",
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "pinCode": "400093"
+        },
+        {
+          "name": "Lacky Singh",
+          "email": "thisislackysingh@gmail.com",
+          "phone": "07304183055",
+          "street": "A-13 Sai Dalit Seva Sangh Subhash Nagar 2 Andheri East Mumbai 93",
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "pinCode": "400093"
+        }
+      ],
       "id": 2
     }
   ],
@@ -2401,7 +2420,7 @@
         "https://i.dummyjson.com/data/products/5/2.jpg",
         "https://i.dummyjson.com/data/products/5/3.jpg"
       ],
-      "quantity": 1,
+      "quantity": 3,
       "user": 2
     },
     {
@@ -2611,6 +2630,396 @@
         "pinCode": "560034"
       },
       "id": 3
+    },
+    {
+      "items": [
+        {
+          "id": 3,
+          "title": "Samsung Universe 9",
+          "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+          "price": 1249,
+          "discountPercentage": 15.46,
+          "rating": 4.09,
+          "stock": 36,
+          "brand": "Samsung",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/3/1.jpg"
+          ],
+          "quantity": 2,
+          "user": 2
+        },
+        {
+          "id": 5,
+          "title": "Huawei P30",
+          "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+          "price": 499,
+          "discountPercentage": 10.58,
+          "rating": 4.09,
+          "stock": 32,
+          "brand": "Huawei",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/5/1.jpg",
+            "https://i.dummyjson.com/data/products/5/2.jpg",
+            "https://i.dummyjson.com/data/products/5/3.jpg"
+          ],
+          "quantity": 3,
+          "user": 2
+        }
+      ],
+      "totalAmount": 3995,
+      "totalItems": 5,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "addresses": [
+          {
+            "name": "Lacky Singh",
+            "email": "thisislackysingh@gmail.com",
+            "phone": "07304183055",
+            "street": "A-13 Sai Dalit Seva Sangh Subhash Nagar 2 Andheri East Mumbai 93",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pinCode": "400093"
+          },
+          {
+            "name": "Lacky Singh",
+            "email": "thisislackysingh@gmail.com",
+            "phone": "07304183055",
+            "street": "A-13 Sai Dalit Seva Sangh Subhash Nagar 2 Andheri East Mumbai 93",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pinCode": "400093"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Lacky Singh",
+        "email": "thisislackysingh@gmail.com",
+        "phone": "07304183055",
+        "street": "A-13 Sai Dalit Seva Sangh Subhash Nagar 2 Andheri East Mumbai 93",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pinCode": "400093"
+      },
+      "id": 4
+    },
+    {
+      "items": [
+        {
+          "id": 3,
+          "title": "Samsung Universe 9",
+          "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+          "price": 1249,
+          "discountPercentage": 15.46,
+          "rating": 4.09,
+          "stock": 36,
+          "brand": "Samsung",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/3/1.jpg"
+          ],
+          "quantity": 2,
+          "user": 2
+        },
+        {
+          "id": 5,
+          "title": "Huawei P30",
+          "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+          "price": 499,
+          "discountPercentage": 10.58,
+          "rating": 4.09,
+          "stock": 32,
+          "brand": "Huawei",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/5/1.jpg",
+            "https://i.dummyjson.com/data/products/5/2.jpg",
+            "https://i.dummyjson.com/data/products/5/3.jpg"
+          ],
+          "quantity": 3,
+          "user": 2
+        }
+      ],
+      "totalAmount": 3995,
+      "totalItems": 5,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "addresses": [
+          {
+            "name": "Lacky Singh",
+            "email": "thisislackysingh@gmail.com",
+            "phone": "07304183055",
+            "street": "A-13 Sai Dalit Seva Sangh Subhash Nagar 2 Andheri East Mumbai 93",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pinCode": "400093"
+          },
+          {
+            "name": "Lacky Singh",
+            "email": "thisislackysingh@gmail.com",
+            "phone": "07304183055",
+            "street": "A-13 Sai Dalit Seva Sangh Subhash Nagar 2 Andheri East Mumbai 93",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pinCode": "400093"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Lacky Singh",
+        "email": "thisislackysingh@gmail.com",
+        "phone": "07304183055",
+        "street": "A-13 Sai Dalit Seva Sangh Subhash Nagar 2 Andheri East Mumbai 93",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pinCode": "400093"
+      },
+      "id": 5
+    },
+    {
+      "items": [
+        {
+          "id": 3,
+          "title": "Samsung Universe 9",
+          "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+          "price": 1249,
+          "discountPercentage": 15.46,
+          "rating": 4.09,
+          "stock": 36,
+          "brand": "Samsung",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/3/1.jpg"
+          ],
+          "quantity": 2,
+          "user": 2
+        },
+        {
+          "id": 5,
+          "title": "Huawei P30",
+          "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+          "price": 499,
+          "discountPercentage": 10.58,
+          "rating": 4.09,
+          "stock": 32,
+          "brand": "Huawei",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/5/1.jpg",
+            "https://i.dummyjson.com/data/products/5/2.jpg",
+            "https://i.dummyjson.com/data/products/5/3.jpg"
+          ],
+          "quantity": 3,
+          "user": 2
+        }
+      ],
+      "totalAmount": 3995,
+      "totalItems": 5,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "addresses": [
+          {
+            "name": "Lacky Singh",
+            "email": "thisislackysingh@gmail.com",
+            "phone": "07304183055",
+            "street": "A-13 Sai Dalit Seva Sangh Subhash Nagar 2 Andheri East Mumbai 93",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pinCode": "400093"
+          },
+          {
+            "name": "Lacky Singh",
+            "email": "thisislackysingh@gmail.com",
+            "phone": "07304183055",
+            "street": "A-13 Sai Dalit Seva Sangh Subhash Nagar 2 Andheri East Mumbai 93",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pinCode": "400093"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Lacky Singh",
+        "email": "thisislackysingh@gmail.com",
+        "phone": "07304183055",
+        "street": "A-13 Sai Dalit Seva Sangh Subhash Nagar 2 Andheri East Mumbai 93",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pinCode": "400093"
+      },
+      "id": 6
+    },
+    {
+      "items": [
+        {
+          "id": 3,
+          "title": "Samsung Universe 9",
+          "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+          "price": 1249,
+          "discountPercentage": 15.46,
+          "rating": 4.09,
+          "stock": 36,
+          "brand": "Samsung",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/3/1.jpg"
+          ],
+          "quantity": 2,
+          "user": 2
+        },
+        {
+          "id": 5,
+          "title": "Huawei P30",
+          "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+          "price": 499,
+          "discountPercentage": 10.58,
+          "rating": 4.09,
+          "stock": 32,
+          "brand": "Huawei",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/5/1.jpg",
+            "https://i.dummyjson.com/data/products/5/2.jpg",
+            "https://i.dummyjson.com/data/products/5/3.jpg"
+          ],
+          "quantity": 3,
+          "user": 2
+        }
+      ],
+      "totalAmount": 3995,
+      "totalItems": 5,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "addresses": [
+          {
+            "name": "Lacky Singh",
+            "email": "thisislackysingh@gmail.com",
+            "phone": "07304183055",
+            "street": "A-13 Sai Dalit Seva Sangh Subhash Nagar 2 Andheri East Mumbai 93",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pinCode": "400093"
+          },
+          {
+            "name": "Lacky Singh",
+            "email": "thisislackysingh@gmail.com",
+            "phone": "07304183055",
+            "street": "A-13 Sai Dalit Seva Sangh Subhash Nagar 2 Andheri East Mumbai 93",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pinCode": "400093"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Lacky Singh",
+        "email": "thisislackysingh@gmail.com",
+        "phone": "07304183055",
+        "street": "A-13 Sai Dalit Seva Sangh Subhash Nagar 2 Andheri East Mumbai 93",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pinCode": "400093"
+      },
+      "id": 7
+    },
+    {
+      "items": [
+        {
+          "id": 3,
+          "title": "Samsung Universe 9",
+          "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+          "price": 1249,
+          "discountPercentage": 15.46,
+          "rating": 4.09,
+          "stock": 36,
+          "brand": "Samsung",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/3/1.jpg"
+          ],
+          "quantity": 2,
+          "user": 2
+        },
+        {
+          "id": 5,
+          "title": "Huawei P30",
+          "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+          "price": 499,
+          "discountPercentage": 10.58,
+          "rating": 4.09,
+          "stock": 32,
+          "brand": "Huawei",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/5/1.jpg",
+            "https://i.dummyjson.com/data/products/5/2.jpg",
+            "https://i.dummyjson.com/data/products/5/3.jpg"
+          ],
+          "quantity": 3,
+          "user": 2
+        }
+      ],
+      "totalAmount": 3995,
+      "totalItems": 5,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "addresses": [
+          {
+            "name": "Lacky Singh",
+            "email": "thisislackysingh@gmail.com",
+            "phone": "07304183055",
+            "street": "A-13 Sai Dalit Seva Sangh Subhash Nagar 2 Andheri East Mumbai 93",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pinCode": "400093"
+          },
+          {
+            "name": "Lacky Singh",
+            "email": "thisislackysingh@gmail.com",
+            "phone": "07304183055",
+            "street": "A-13 Sai Dalit Seva Sangh Subhash Nagar 2 Andheri East Mumbai 93",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pinCode": "400093"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Lacky Singh",
+        "email": "thisislackysingh@gmail.com",
+        "phone": "07304183055",
+        "street": "A-13 Sai Dalit Seva Sangh Subhash Nagar 2 Andheri East Mumbai 93",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pinCode": "400093"
+      },
+      "id": 8
     }
   ]
 }
